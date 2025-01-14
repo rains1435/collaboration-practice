@@ -6,10 +6,11 @@ Chocolate
 #### 6
 Vanilla
 #### 8
-Github is awesome
+GitHub is really awesome
 #### 10
-#### 11
+Vanilla is better
 #### 12
 #### 13
 #### 14
 #### 15
+#### 16

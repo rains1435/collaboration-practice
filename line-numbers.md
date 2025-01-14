@@ -6,7 +6,7 @@ Chocolate
 #### 6
 Vanilla
 #### 8
-Github is awesomeg
+Github is awesome
 #### 10
 #### 11
 #### 12

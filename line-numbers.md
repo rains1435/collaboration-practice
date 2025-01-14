@@ -8,7 +8,7 @@ Vanilla
 #### 8
 GitHub is really awesome
 #### 10
-#### 11
+Chocolate is better
 #### 12
 #### 13
 #### 14
